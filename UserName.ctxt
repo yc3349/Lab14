@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=UserName
+comment1.params=name
+comment1.target=void\ userNameGenerator(java.lang.String)
+numComments=2
